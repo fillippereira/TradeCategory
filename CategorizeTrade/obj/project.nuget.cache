@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "OiWuz7GVXlHBUPivLKCK56Ev62ZesZTuD+jsJDyQNqRgtIrlxoRlQAoTR87SMfr2+DYB8QqmjsBda7hwTm1hOA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Fillip Pereira\\Desktop\\TesteGFT\\CategorizeTrade\\CategorizeTrade.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fillip Pereira\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fillip Pereira\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Fillip Pereira\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

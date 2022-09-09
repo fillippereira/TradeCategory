@@ -1,0 +1,31 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CategorizeTrade", "CategorizeTrade\CategorizeTrade.csproj", "{2CA79659-9385-4424-947D-FFBF5B36924E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CategorizeTrade.Test", "CategorizeTrade.Test\CategorizeTrade.Test.csproj", "{E25D3916-6F7D-4F16-AC21-467F23F69E3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2CA79659-9385-4424-947D-FFBF5B36924E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CA79659-9385-4424-947D-FFBF5B36924E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CA79659-9385-4424-947D-FFBF5B36924E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CA79659-9385-4424-947D-FFBF5B36924E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E25D3916-6F7D-4F16-AC21-467F23F69E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E25D3916-6F7D-4F16-AC21-467F23F69E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E25D3916-6F7D-4F16-AC21-467F23F69E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E25D3916-6F7D-4F16-AC21-467F23F69E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2126C2E8-D0AF-4030-909A-2DD1918F73D9}
+	EndGlobalSection
+EndGlobal
